@@ -1,0 +1,19 @@
+.page__hd{
+    background: purple;
+}
+
+.page__title{
+    width: 600px;
+    height: 40px;
+    color: orange;
+    background: blue;
+    text-align: right;
+}
+.page__desc{
+    color: orange;
+    text-align: center;
+    margin:auto;
+}
+.page{
+    background-color: white;
+}
